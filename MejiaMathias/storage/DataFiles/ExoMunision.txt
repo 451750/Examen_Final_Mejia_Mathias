@@ -1,0 +1,3 @@
+Munición_	Fusil,  Munición_Revolver		,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver		
+Energía_GPS,    Energía_Giroscopio		, Munición_Misil, Munición_Mortero		    		,Munición_	Fusil,  Munición_Revolver
